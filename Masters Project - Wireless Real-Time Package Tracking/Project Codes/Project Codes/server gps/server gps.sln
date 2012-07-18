@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server gps", "server gps.csproj", "{B17321DF-364E-41D5-B865-11A9D8B13DC5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B17321DF-364E-41D5-B865-11A9D8B13DC5}.Debug.ActiveCfg = Debug|.NET
+		{B17321DF-364E-41D5-B865-11A9D8B13DC5}.Debug.Build.0 = Debug|.NET
+		{B17321DF-364E-41D5-B865-11A9D8B13DC5}.Release.ActiveCfg = Release|.NET
+		{B17321DF-364E-41D5-B865-11A9D8B13DC5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

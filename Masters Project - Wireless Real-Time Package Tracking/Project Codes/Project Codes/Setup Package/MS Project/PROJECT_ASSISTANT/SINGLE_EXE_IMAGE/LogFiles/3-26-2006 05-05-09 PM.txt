@@ -1,0 +1,149 @@
+================= Logging started at 3/26/2006 05:05:09 PM ==================
+Created release folders
+AdminExecuteSequence table successfully built
+AdminUISequence table successfully built
+AdvtExecuteSequence table successfully built
+AdvtUISequence table successfully built
+InstallExecuteSequence table successfully built
+InstallUISequence table successfully built
+Directory table successfully built
+Feature table successfully built
+FeatureComponents table successfully built
+Component table successfully built
+Loading File table
+Building File table
+ISDEV : warning -6245: One or more of the project's components contain .NET properties that require the .NET Framework.  It is recommended that the release include the .NET Framework.
+ISDEV : warning -6248: Could not find dependent file btdrt.dll, or one of its dependencies of component GeoFramework.Gps.Controls.dll
+ISDEV : warning -6248: Could not find dependent file bthutil.dll, or one of its dependencies of component GeoFramework.Gps.Controls.dll
+ISDEV : warning -6248: Could not find dependent file coredll.dll, or one of its dependencies of component GeoFramework.Gps.Controls.dll
+ISDEV : warning -6248: Could not find dependent file ws2.dll, or one of its dependencies of component GeoFramework.Gps.Controls.dll
+ISDEV : warning -6248: Could not find dependent file btdrt.dll, or one of its dependencies of component GeoFramework.Gps.dll
+ISDEV : warning -6248: Could not find dependent file bthutil.dll, or one of its dependencies of component GeoFramework.Gps.dll
+ISDEV : warning -6248: Could not find dependent file coredll.dll, or one of its dependencies of component GeoFramework.Gps.dll
+ISDEV : warning -6248: Could not find dependent file ws2.dll, or one of its dependencies of component GeoFramework.Gps.dll
+ISDEV : warning -6248: Could not find dependent file btdrt.dll, or one of its dependencies of component gps_project.exe
+ISDEV : warning -6248: Could not find dependent file bthutil.dll, or one of its dependencies of component gps_project.exe
+ISDEV : warning -6248: Could not find dependent file coredll.dll, or one of its dependencies of component gps_project.exe
+ISDEV : warning -6248: Could not find dependent file ws2.dll, or one of its dependencies of component gps_project.exe
+Merging modules...
+Merging InstallShield Update Service: E:\Program Files\Macrovision\IS11.5\Objects\ISUS.Msm
+File table successfully built
+Building MsiFileHash table
+MsiFileHash table successfully built
+Class table successfully built
+Extension table successfully built
+ODBCDataSource table successfully built
+ODBCDriver table successfully built
+ActionText table successfully built
+AppSearch table successfully built
+BindImage table successfully built
+CCPSearch table successfully built
+Condition table successfully built
+AppId table successfully built
+Property table successfully built
+BBControl table successfully built
+Billboard table successfully built
+Binary table successfully built
+CompLocator table successfully built
+Complus table successfully built
+ControlCondition table successfully built
+ControlEvent table successfully built
+CreateFolder table successfully built
+CustomAction table successfully built
+Error table successfully built
+DrLocator table successfully built
+DuplicateFile table successfully built
+Environment table successfully built
+EventMapping table successfully built
+FileSFPCatalog table successfully built
+Font table successfully built
+IniFile table successfully built
+IniLocator table successfully built
+IsolatedComponent table successfully built
+ISSelfReg table successfully built
+Verb table successfully built
+LaunchCondition table successfully built
+LockPermissions table successfully built
+MIME table successfully built
+MoveFile table successfully built
+MsiAssembly table successfully built
+MsiAssemblyName table successfully built
+MsiDigitalCertificate table successfully built
+MsiDigitalSignature table successfully built
+MsiDriverPackages table successfully built
+ODBCAttribute table successfully built
+ODBCSourceAttribute table successfully built
+ODBCTranslator table successfully built
+PatchPackage table successfully built
+ProgId table successfully built
+PublishComponent table successfully built
+Registry table successfully built
+RegLocator table successfully built
+RemoveFile table successfully built
+RemoveIniFile table successfully built
+RemoveRegistry table successfully built
+ReserveCost table successfully built
+SelfReg table successfully built
+ServiceControl table successfully built
+ServiceInstall table successfully built
+SFPCatalog table successfully built
+Shortcut table successfully built
+Signature table successfully built
+TextStyle table successfully built
+TypeLib table successfully built
+UIText table successfully built
+Upgrade table successfully built
+_Validation table successfully built
+Searching project for extract-at-build components...
+Building scanned MsiAssembly records
+Building scanned MsiAssemblyName records
+Validating Custom Action sequencing
+Dialog AdminChangeFolder for language English (United States) built
+Dialog AdminNetworkLocation for language English (United States) built
+Dialog AdminWelcome for language English (United States) built
+Dialog CancelSetup for language English (United States) built
+Dialog CustomSetup for language English (United States) built
+Dialog CustomSetupTips for language English (United States) built
+Dialog CustomerInformation for language English (United States) built
+Dialog DatabaseFolder for language English (United States) built
+Dialog DestinationFolder for language English (United States) built
+Dialog DiskSpaceRequirements for language English (United States) built
+Dialog FilesInUse for language English (United States) built
+Dialog InstallChangeFolder for language English (United States) built
+Dialog InstallWelcome for language English (United States) built
+Dialog LicenseAgreement for language English (United States) built
+Dialog MaintenanceType for language English (United States) built
+Dialog MaintenanceWelcome for language English (United States) built
+Dialog OutOfSpace for language English (United States) built
+Dialog PatchWelcome for language English (United States) built
+Dialog ReadyToInstall for language English (United States) built
+Dialog ReadyToRemove for language English (United States) built
+Dialog SQLBrowse for language English (United States) built
+Dialog SQLLogin for language English (United States) built
+Dialog SetupCompleteError for language English (United States) built
+Dialog SetupCompleteSuccess for language English (United States) built
+Dialog SetupError for language English (United States) built
+Dialog SetupInitialization for language English (United States) built
+Dialog SetupInterrupted for language English (United States) built
+Dialog SetupProgress for language English (United States) built
+Dialog SetupResume for language English (United States) built
+Dialog SetupType for language English (United States) built
+Dialog SplashBitmap for language English (United States) built
+Resolving strings...
+Language English (United States) built
+Building CAB files...
+Data1.cab built
+Files built
+Media table successfully built
+Performing Upgrading and Patching Validation
+Val0005:	A condition for feature 'GTEDG' may possibly set the InstallLevel for this feature to zero at runtime. If this feature gets enabled on install, you must author similar logic to ensure that it is also enabled in maintenance mode, otherwise in an upgrade the feature will be ignored.	
+Val0005:	A condition for feature 'GTEDGNet' may possibly set the InstallLevel for this feature to zero at runtime. If this feature gets enabled on install, you must author similar logic to ensure that it is also enabled in maintenance mode, otherwise in an upgrade the feature will be ignored.	
+Val0005:	A condition for feature 'GTEDGSC' may possibly set the InstallLevel for this feature to zero at runtime. If this feature gets enabled on install, you must author similar logic to ensure that it is also enabled in maintenance mode, otherwise in an upgrade the feature will be ignored.	
+Val0005:	A condition for feature 'gtwl5' may possibly set the InstallLevel for this feature to zero at runtime. If this feature gets enabled on install, you must author similar logic to ensure that it is also enabled in maintenance mode, otherwise in an upgrade the feature will be ignored.	
+Val0005:	A condition for feature 'ser2plms' may possibly set the InstallLevel for this feature to zero at runtime. If this feature gets enabled on install, you must author similar logic to ensure that it is also enabled in maintenance mode, otherwise in an upgrade the feature will be ignored.	
+Setup.exe created
+Automatic update notification enabled
+PROJECT_ASSISTANT\SINGLE_EXE_IMAGE - 0 error(s), 13 warning(s)
+================= Logging stopped at 3/26/2006 05:06:05 PM ==================
+Log file has been created: <file:E:\My InstallShield 11.5 Projects\MS  Project\PROJECT_ASSISTANT\SINGLE_EXE_IMAGE\LogFiles\3-26-2006 05-05-09 PM.txt>
+
